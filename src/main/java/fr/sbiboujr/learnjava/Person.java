@@ -1,5 +1,7 @@
 package fr.sbiboujr.learnjava;
 
+import fr.sbiboujr.utils.Console;
+
 public class Person {
   private String name;
   private int age;

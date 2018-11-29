@@ -1,4 +1,4 @@
-package fr.sbiboujr.learnjava;
+package fr.sbiboujr.utils;
 
 public class Console {
   public static void log(String text) {

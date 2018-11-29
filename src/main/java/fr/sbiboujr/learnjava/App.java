@@ -1,6 +1,7 @@
 package fr.sbiboujr.learnjava;
 
 import java.util.Scanner;
+import fr.sbiboujr.utils.Console;
 
 /**
  * Hello world!
